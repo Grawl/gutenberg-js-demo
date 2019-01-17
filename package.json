@@ -1,7 +1,10 @@
 {
-  "name": "react-ea6cpb",
+  "name": "gutenberg-js-demo",
   "version": "0.1.0",
-  "private": true,
+  "authors": [
+    "Daniil Pronin <mail@grawl.ru> (https://github.com/Grawl)",
+    "Joe <joe@uixd.co.uk> (https://github.com/joejordanbrown)"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
